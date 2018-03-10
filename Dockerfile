@@ -1,4 +1,4 @@
-FROM node:5.7.1-slim
+FROM node:9.8.0-slim
 MAINTAINER Ryan J. McDonough "ryan@damnhandy.com"
 
 RUN apt-get update \

@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.com/3_1_3_u/cloud9-sdk/badges/master/pipeline.svg)](https://gitlab.com/3_1_3_u/cloud9-sdk/commits/master)
+
 # Cloud9 SDK Docker Container
 
 This is a docker container that can executes the Cloud9 SDK.
